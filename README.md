@@ -1,2 +1,2 @@
 # Contact-Form-in-ASP.NET-Core
-A Contact form is ASP.NET core 
+A Contact form in ASP.NET core using razor syntax
